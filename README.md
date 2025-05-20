@@ -1,9 +1,7 @@
 # Student-Performance-Analysis-
 This project analyzes student performance data to identify trends and insights based on gender, study time, and parental education. It uses Python (Pandas, Matplotlib) to clean and visualize the data.
 
-# Student Performance Analysis
 
-This project explores student academic performance using a dataset containing scores and demographic attributes. The analysis aims to understand how gender, parental education, and study time affect academic outcomes.
 
 ## Tools Used
 - Python
